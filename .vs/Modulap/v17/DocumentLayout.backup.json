@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esme\\source\\repos\\Modulap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\controllers\\possibleclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\controllers\\possibleclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\dto\\estimaterequestdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\dto\\estimaterequestdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\controllers\\buyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\controllers\\buyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\models\\chickencoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\models\\chickencoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|c:\\users\\esme\\source\\repos\\modulap\\modulap\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063361ED-11E3-4184-A4A5-627338B674DC}|Modulap\\Modulap.csproj|solutionrelative:modulap\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Modulap\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\Sale.cs",
+              "RelativeToolTip": "Modulap\\Models\\Sale.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:41:12.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Modulap\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Modulap\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:18:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PossibleClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\PossibleClientController.cs",
+              "RelativeDocumentMoniker": "Modulap\\Controllers\\PossibleClientController.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\PossibleClientController.cs",
+              "RelativeToolTip": "Modulap\\Controllers\\PossibleClientController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T04:58:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Modulap\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Modulap\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:31:39.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Modulap\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\Message.cs",
+              "RelativeToolTip": "Modulap\\Models\\Message.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:49:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstimateRequestDto1.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Dto\\EstimateRequestDto1.cs",
+              "RelativeDocumentMoniker": "Modulap\\Dto\\EstimateRequestDto1.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Dto\\EstimateRequestDto1.cs",
+              "RelativeToolTip": "Modulap\\Dto\\EstimateRequestDto1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:24:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuysController.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\BuysController.cs",
+              "RelativeDocumentMoniker": "Modulap\\Controllers\\BuysController.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\BuysController.cs",
+              "RelativeToolTip": "Modulap\\Controllers\\BuysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:33:16.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Modulap\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\AppUser.cs",
+              "RelativeToolTip": "Modulap\\Models\\AppUser.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T20:10:30.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Modulap\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Modulap\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHECAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T20:08:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\SaleDetail.cs",
+              "RelativeDocumentMoniker": "Modulap\\Models\\SaleDetail.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\SaleDetail.cs",
+              "RelativeToolTip": "Modulap\\Models\\SaleDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:41:09.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Modulap\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Modulap\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAKwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:26:58.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChickenCoop.cs",
+              "DocumentMoniker": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\ChickenCoop.cs",
+              "RelativeDocumentMoniker": "Modulap\\Models\\ChickenCoop.cs",
+              "ToolTip": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Models\\ChickenCoop.cs",
+              "RelativeToolTip": "Modulap\\Models\\ChickenCoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:15:13.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
