@@ -169,3 +169,4 @@ C:\Users\Esme\source\repos\Modulap\Modulap\obj\Debug\net9.0\Modulap.pdb
 C:\Users\Esme\source\repos\Modulap\Modulap\obj\Debug\net9.0\Modulap.genruntimeconfig.cache
 C:\Users\Esme\source\repos\Modulap\Modulap\obj\Debug\net9.0\ref\Modulap.dll
 C:\Users\Esme\source\repos\Modulap\Modulap\bin\Debug\net9.0\RestSharp.dll
+C:\Users\Esme\source\repos\Modulap\Modulap\obj\Debug\net9.0\Modulap.sourcelink.json

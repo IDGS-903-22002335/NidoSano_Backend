@@ -42,13 +42,15 @@ namespace Modulap.Controllers
         }
 
         [HttpGet("getAllPossibleClient")]
-
         public async Task<IActionResult> GetAll()
         {
-          var posibleClient =  await _context.PossibleClients.ToListAsync();
+            var posibleClient = await _context.PossibleClients
+                .Where(c => c.Status != 1)   // Filtrar para excluir clientes con Status 1
+                .ToListAsync();
 
             return Ok(posibleClient);
         }
+
 
         [HttpGet("getPossibleClientById/{id}")]
         public async Task<IActionResult> GetPossibleClientById(Guid id)
@@ -63,5 +65,26 @@ namespace Modulap.Controllers
             return Ok(cliente);
         }
 
+
+        [HttpPut("setStatusToOne/{id}")]
+        public async Task<IActionResult> SetStatusToOne(Guid id)
+        {
+            var cliente = await _context.PossibleClients.FindAsync(id);
+
+            if (cliente == null)
+            {
+                return NotFound(new { Message = $"Cliente con id {id} no encontrado." });
+            }
+
+            cliente.Status = 1;  // Actualizamos el Status a 1
+            _context.PossibleClients.Update(cliente);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { Message = $"Status del cliente con id {id} actualizado a 1." });
+        }
+
+
     }
+
+
 }
