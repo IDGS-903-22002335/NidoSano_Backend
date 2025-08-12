@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Modulap.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\NidoSano\\Modulap\\Modulap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Modulap.csproj": {
+    "C:\\Users\\DELL\\Desktop\\NidoSano\\Modulap\\Modulap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Modulap.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\NidoSano\\Modulap\\Modulap.csproj",
         "projectName": "Modulap",
-        "projectPath": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\Modulap.csproj",
-        "packagesPath": "C:\\Users\\Esme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esme\\source\\repos\\Modulap\\Modulap\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\NidoSano\\Modulap\\Modulap.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\NidoSano\\Modulap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Esme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -110,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

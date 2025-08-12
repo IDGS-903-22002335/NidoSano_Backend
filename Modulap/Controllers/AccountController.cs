@@ -82,7 +82,7 @@ namespace Modulap.Controllers
             return Ok(new AuthResponseDto
             {
                 IsSuccess = true,
-                Message = "Account Created Sucessfully!!!"
+                Message = "Cuenta creada correctamente."
             });
         }
 
@@ -97,7 +97,7 @@ namespace Modulap.Controllers
 
             if (user == null)
             {
-                return NotFound("Usuario no encontrado");
+                return NotFound("Usuario no encontrado.");
             }
 
             user.Status = dto.Status;
@@ -108,12 +108,12 @@ namespace Modulap.Controllers
             {
                 return Ok(new
                 {
-                    Message = "Usuario desactivado correctamente"
+                    Message = "Usuario desactivado correctamente."
                 }
                 );
             }
 
-            return BadRequest(" User delete falid");
+            return BadRequest("Fallo al validar usuario.");
 
         }
 
@@ -165,7 +165,7 @@ namespace Modulap.Controllers
                 return Unauthorized(new AuthResponseDto
                 {
                     IsSuccess = false,
-                    Message = "User not found with this email"
+                    Message = "Usuario no encontrado con este correo."
                 });
             }
 
@@ -176,7 +176,7 @@ namespace Modulap.Controllers
                 return Unauthorized(new AuthResponseDto
                 {
                     IsSuccess = false,
-                    Message = "Invalid Password"
+                    Message = "Contraseña incorrecta."
                 });
             }
 
@@ -192,7 +192,7 @@ namespace Modulap.Controllers
             {
                 Token = token,
                 IsSuccess = true,
-                Message = "Login Success",
+                Message = "Acceso exitoso.",
                 RefreshToken = refreshToken,
             });
         }
@@ -361,7 +361,7 @@ System.Console.WriteLine(response.Content);
                 return Ok(new AuthResponseDto
                 {
                     IsSuccess = true,
-                    Message = "restablecimiento de contraseña exitoso"
+                    Message = "Restablecimiento de contraseña exitoso"
                 });
             }
 
@@ -385,7 +385,7 @@ System.Console.WriteLine(response.Content);
                 return BadRequest(new AuthResponseDto
                 {
                     IsSuccess = false,
-                    Message = "Usuario no existe con este Email"
+                    Message = "Usuario no existe con este email."
                 });
             }
 
@@ -396,7 +396,7 @@ System.Console.WriteLine(response.Content);
                 return Ok(new AuthResponseDto
                 {
                     IsSuccess = true,
-                    Message = "cambio de contraseña exitoso"
+                    Message = "cambio de contraseña exitoso."
                 });
             }
 
@@ -441,10 +441,13 @@ System.Console.WriteLine(response.Content);
                 claims.Add(new Claim(ClaimTypes.Role, role));
             }
 
+            _ = int.TryParse(_configuration.GetSection("JWTSetting").GetSection("expireInMinutes").Value!, out int expireInMinutes);
+            if (expireInMinutes <= 0) expireInMinutes = 60;
+
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(claims),
-                Expires = DateTime.UtcNow.AddMinutes(1),
+                Expires = DateTime.UtcNow.AddMinutes(expireInMinutes), 
                 SigningCredentials = new SigningCredentials(
                     new SymmetricSecurityKey(key),
                     SecurityAlgorithms.HmacSha256
@@ -469,7 +472,7 @@ System.Console.WriteLine(response.Content);
                 return NotFound(new AuthResponseDto
                 {
                     IsSuccess = false,
-                    Message = "User not found"
+                    Message = "Usuario no encontrado."
                 });
             }
 
@@ -502,7 +505,7 @@ System.Console.WriteLine(response.Content);
                 return NotFound(new AuthResponseDto
                 {
                     IsSuccess = false,
-                    Message = "Usuario no encontrado"
+                    Message = "Usuario no encontrado."
                 });
             }
 
@@ -638,7 +641,7 @@ System.Console.WriteLine(response.Content);
                 return NotFound(new AuthResponseDto
                 {
                     IsSuccess = false,
-                    Message = "User not found"
+                    Message = "Usuario no encontrado."
                 });
             }
 

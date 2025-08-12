@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modulap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025b6e1fb1d192dc21450a92e784eb684004841f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602a881c4c173dbb2076a083e63e0ea613fc1515")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modulap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modulap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
